@@ -18,7 +18,7 @@ Contact: [Samuel Lüthi](mailto:samuel.luethi@usys.ethz.ch)
 
 #### Tutorial
 - an interactive step-by-step guide for the analysis
-- CLIMADA implementation of the heat-mortality analysis (full implementation is currently subject to internal code review and available [on this branch](https://github.com/CLIMADA-project/climada_petals/tree/origin/feature/heat)
+- CLIMADA implementation of the heat-mortality analysis (full implementation is currently subject to internal code review and available [on this branch](https://github.com/CLIMADA-project/climada_petals/tree/origin/feature/heat))
 
 -----
 www.wcr.ethz.ch
