@@ -8,7 +8,7 @@ Contact: [Samuel Lüthi](mailto:samuel.luethi@usys.ethz.ch)
 ### Content:
 
 #### Full scripts
-- Script for the epidemological analysis in R (see also the tutorial by Vicedo-Cabrera et al. (2019) at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533172/
+- Script for the epidemological analysis in R (see also the [tutorial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533172/) by Vicedo-Cabrera et al. (2019)
 - Script for the preparation of the SMILE data
 - Script for the probabilistic heat-mortality analysis
 
