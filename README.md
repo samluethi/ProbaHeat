@@ -5,7 +5,7 @@ Lüthi, S., et al.: Rapid increase in the risk of heat related mortality (submit
 
 Contact: [Samuel Lüthi](mailto:samuel.luethi@usys.ethz.ch)
 
-## Content:
+### Content:
 
 #### Full scripts
 - Script for the epidemological analysis in R (see also the tutorial by Vicedo-Cabrera et al. (2019) at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533172/
