@@ -16,5 +16,9 @@ Contact: [Samuel Lüthi](mailto:samuel.luethi@usys.ethz.ch)
 - all functions to reproduce the plots in the submitted study
 - Script to run these funcitons
 
+#### Tutorial
+- an interactive step-by-step guide for the analysis
+- CLIAMDA implementation of the heat-mortality analysis
+
 -----
 www.wcr.ethz.ch
