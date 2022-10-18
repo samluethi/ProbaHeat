@@ -1,5 +1,5 @@
-#### Probabilistic Heat Mortality
-This repository contains all relevant scripts for the analysis of the paper on probabilistic heat mortality
+## Rapid increase in the risk of heat related mortality 
+This repository contains all relevant scripts to reproduce the analysis of the study on probabilistic heat mortality
 
 Lüthi, S., et al.: Rapid increase in the risk of heat related mortality (submitted, October 2022)
 
