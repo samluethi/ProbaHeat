@@ -5,11 +5,6 @@
 
 ##### 1. LOAD MCC DATASET
 # DEFINE DIRECTORY DATASET
-dirpre <- "~/OneDrive - Universitaet Bern/LSHTM/MCC/MCCCCAttr/"
-
-
-##### 1. LOAD MCC DATASET
-# DEFINE DIRECTORY DATASET
 dirpre <- "~/OneDrive - ETH Zurich/WCR/Projects/Heat/Data/MCC/"
 
 # LOAD DATA (LAST VERSION UPDATED FRANCESCO)
