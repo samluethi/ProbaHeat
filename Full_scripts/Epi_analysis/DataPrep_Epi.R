@@ -1,6 +1,6 @@
 
 # Prepare MCC-data for Epi analysis
-# author: Samuel Lüthi
+# author: Samuel Lüthi & Ana Vicedo (original script)
 # date: 18 October 2022
 
 ##### 1. LOAD MCC DATASET
