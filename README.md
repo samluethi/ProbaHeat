@@ -20,5 +20,12 @@ Contact: [Samuel Lüthi](mailto:samuel.luethi@usys.ethz.ch)
 - an interactive step-by-step guide for the analysis
 - CLIMADA implementation of the heat-mortality analysis (full implementation is currently subject to internal code review and available [on this branch](https://github.com/CLIMADA-project/climada_petals/tree/origin/feature/heat))
 
+
+### System requirements
+- All python analysis was performed on python version 3.8
+- R analysis was performed with the RStudio environment (version 2022.07.2)
+- Installation and documentation of the CLIMADA platform is prvided [here](https://climada-python.readthedocs.io/en/stable/)
+- Installation and documentation of the epidemiological analysis is provided [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6533172/)
+
 -----
 www.wcr.ethz.ch
